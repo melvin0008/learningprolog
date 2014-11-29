@@ -1,0 +1,4 @@
+learningprolog
+==============
+
+Experiments with prolog
